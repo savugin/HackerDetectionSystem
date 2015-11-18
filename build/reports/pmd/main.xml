@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.1.1" timestamp="2015-10-30T11:13:34.266">
+<file name="C:\Users\savugin.CORP\Desktop\UnitTestingSpring\HackerDetectionSystem\src\main\java\com\netdespatch\converter\DateConverter.java">
+<violation beginline="16" endline="18" begincolumn="13" endcolumn="13" rule="CollapsibleIfStatements" ruleset="Basic" package="com.netdespatch.converter" class="DateConverter" method="convertEpochDateFormatToDate" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.1.1/rules/java/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+</file>
+</pmd>
